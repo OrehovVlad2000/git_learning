@@ -28,6 +28,8 @@
 
 ![alt text for image](https://www.hostinger.com.ua/rukovodstva/wp-content/uploads/sites/8/2017/04/osnovnye-git-komandy.png)
 
+![cat](https://avatarko.ru/img/kartinka/5/kot_ochki_4754.jpg)
+
 ## Ссылки
 
 ## Таблицы
