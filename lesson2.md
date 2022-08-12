@@ -30,6 +30,8 @@
 
 ![cat](https://avatarko.ru/img/kartinka/5/kot_ochki_4754.jpg)
 
+![IT image](https://qph.fs.quoracdn.net/main-qimg-940c900e8182c523970b5c33738937c5)
+
 ## Ссылки
 
 ## Таблицы
