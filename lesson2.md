@@ -25,6 +25,8 @@
 - и т.д.
 ## Работа с изображением
 
+![alt text for image](https://www.hostinger.com.ua/rukovodstva/wp-content/uploads/sites/8/2017/04/osnovnye-git-komandy.png)
+
 ## Ссылки
 
 ## Таблицы
