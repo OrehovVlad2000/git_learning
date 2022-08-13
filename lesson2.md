@@ -32,9 +32,12 @@
 
 ![cat](https://avatarko.ru/img/kartinka/5/kot_ochki_4754.jpg)
 
-![IT image](https://qph.fs.quoracdn.net/main-qimg-940c900e8182c523970b5c33738937c5)
 
 ## Ссылки
+
+[Git для новичков (часть 1)](https://habr.com/ru/post/541258/)
+
+[Git для новичков (часть 2)](https://habr.com/ru/post/542616/)
 
 ## Таблицы
 **Так можно создавать таблицы:**
