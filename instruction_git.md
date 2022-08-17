@@ -1,5 +1,7 @@
 # Основные команды Git
 
+![alt text for image](https://www.hostinger.com.ua/rukovodstva/wp-content/uploads/sites/8/2017/04/osnovnye-git-komandy.png)
+
 > **git init** - инициализация локального репозитория
 
 > **git status** – получить информацию от git о его текущем состоянии
